@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="GET API CALL in KARATE Framework">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/GetAPIWithQuery.feature" afterDir="false" />
+    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="How to Pass Request Headers in Karate Framework">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/headers.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Karate" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,13 +142,22 @@
       <option name="project" value="LOCAL" />
       <updated>1686520137720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Query Parameter [GET API CALL] in KARATE Framework">
+      <created>1686520654466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686520654466</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Read JSONObject and JSONArray" />
     <MESSAGE value="GET API CALL in KARATE Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="GET API CALL in KARATE Framework" />
+    <MESSAGE value="Query Parameter [GET API CALL] in KARATE Framework" />
+    <MESSAGE value="How to Pass Request Headers in Karate Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="How to Pass Request Headers in Karate Framework" />
   </component>
 </project>
