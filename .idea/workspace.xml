@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Pass JSON File in POST Call in Karate">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/PutAPI.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Putjsonfile.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="PUT CALL - Update User using #Karate">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Deletetjsonfile.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686522766770</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PUT CALL - Update User using #Karate">
+      <created>1686523169005</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686523169005</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +203,7 @@
     <MESSAGE value="Post API CALL with KARATE" />
     <MESSAGE value="Generate Random Email String in POST Call in Karate" />
     <MESSAGE value="Pass JSON File in POST Call in Karate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pass JSON File in POST Call in Karate" />
+    <MESSAGE value="PUT CALL - Update User using #Karate" />
+    <option name="LAST_COMMIT_MESSAGE" value="PUT CALL - Update User using #Karate" />
   </component>
 </project>
