@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="How to Pass Request Headers in Karate Framework">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/AuthToken.feature" afterDir="false" />
+    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Read Auth Bearer Token From Config Js File in Karate">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/PostAPI.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="D:\Workspace\KarateAPI\src\test\java\features" />
     </key>
   </component>
-  <component name="RunManager" selected="Karate Feature.GetAPIWithQuery.feature: get user details and the count">
+  <component name="RunManager" selected="Karate Feature.PostAPI.feature: Create a user with the given data">
     <configuration name="GetAPIWithQuery.feature: GetAPIWithQuery.feature" type="karate" temporary="true">
       <option name="karateSearchPaths">
         <list>
@@ -88,16 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetAPI.feature: get user details (2)" type="karate" temporary="true">
-      <option name="karateSearchPaths">
-        <list>
-          <option value="$PROJECT_DIR$/src/test/java/features/GetAPI.feature:3" />
-        </list>
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GetAPI.feature: get user details (3)" type="karate" temporary="true">
       <option name="karateSearchPaths">
         <list>
@@ -108,13 +98,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PostAPI.feature: Create a user with the given data" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/java/features/PostAPI.feature:15" />
+        </list>
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Karate Feature.PostAPI.feature: Create a user with the given data" />
         <item itemvalue="Karate Feature.GetAPIWithQuery.feature: get user details and the count" />
         <item itemvalue="Karate Feature.GetAPIWithQuery.feature: GetAPIWithQuery.feature" />
         <item itemvalue="Karate Feature.GetAPIWithQuery.feature: get user details" />
         <item itemvalue="Karate Feature.GetAPI.feature: get user details (3)" />
-        <item itemvalue="Karate Feature.GetAPI.feature: get user details (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686522168329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Read Auth Bearer Token From Config Js File in Karate">
+      <created>1686522247998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686522247998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +171,7 @@
     <MESSAGE value="GET API CALL in KARATE Framework" />
     <MESSAGE value="Query Parameter [GET API CALL] in KARATE Framework" />
     <MESSAGE value="How to Pass Request Headers in Karate Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="How to Pass Request Headers in Karate Framework" />
+    <MESSAGE value="Read Auth Bearer Token From Config Js File in Karate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read Auth Bearer Token From Config Js File in Karate" />
   </component>
 </project>
