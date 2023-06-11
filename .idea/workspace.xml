@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Read Auth Bearer Token From Config Js File in Karate">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/PostAPI.feature" afterDir="false" />
+    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Post API CALL with KARATE">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/randommail.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686522247998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Post API CALL with KARATE">
+      <created>1686522368768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686522368768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +179,7 @@
     <MESSAGE value="Query Parameter [GET API CALL] in KARATE Framework" />
     <MESSAGE value="How to Pass Request Headers in Karate Framework" />
     <MESSAGE value="Read Auth Bearer Token From Config Js File in Karate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read Auth Bearer Token From Config Js File in Karate" />
+    <MESSAGE value="Post API CALL with KARATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Post API CALL with KARATE" />
   </component>
 </project>
