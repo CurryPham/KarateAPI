@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Generate Random Email String in POST Call in Karate">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/postjsonfile.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/payload/user.json" afterDir="false" />
+    <list default="true" id="f5b1ec6c-5603-47b2-9900-1a27548ff87f" name="Changes" comment="Pass JSON File in POST Call in Karate">
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/PutAPI.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/Putjsonfile.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686522478124</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Pass JSON File in POST Call in Karate">
+      <created>1686522766770</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686522766770</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +197,7 @@
     <MESSAGE value="Read Auth Bearer Token From Config Js File in Karate" />
     <MESSAGE value="Post API CALL with KARATE" />
     <MESSAGE value="Generate Random Email String in POST Call in Karate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generate Random Email String in POST Call in Karate" />
+    <MESSAGE value="Pass JSON File in POST Call in Karate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pass JSON File in POST Call in Karate" />
   </component>
 </project>
